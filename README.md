@@ -1,4 +1,6 @@
 # Brainwave_Matrix_Intern
+Dataset:
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 Project Overview: This Fake News Detection System uses machine learning techniques to automatically classify news articles as Fake News or True News. The system leverages two powerful models: Logistic Regression and Long Short-Term Memory (LSTM). These models analyze the content of news articles to predict whether they are fake or authentic.
 
 System Components:
